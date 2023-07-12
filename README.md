@@ -14,3 +14,8 @@
 - ripgrep
 - lsp language server
   
+## ToDo
+- Comments
+- Vertical split navigation or TMUX
+- Projects to eaisly pick
+- Split management or TMUX
