@@ -26,6 +26,7 @@
 # LSPs
 npm i -g vscode-langservers-extracted
 npm i -g @kozer/emmet-language-server
+npm i -g prettier
 
 # Ripgrep
 brew install ripgrep
