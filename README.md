@@ -19,3 +19,15 @@
 - Vertical split navigation or TMUX
 - Projects to eaisly pick
 - Split management or TMUX
+
+## Install to use
+
+```
+npm i -g vscode-langservers-extracted
+npm i -g @kozer/emmet-language-server
+
+brew install ripgrep
+# or
+curl -LO https://github.com/BurntSushi/ripgrep/releases/download/13.0.0/ripgrep_13.0.0_amd64.deb
+sudo dpkg -i ripgrep_13.0.0_amd64.deb
+```
