@@ -23,11 +23,17 @@
 ## Install to use
 
 ```
+# LSPs
 npm i -g vscode-langservers-extracted
 npm i -g @kozer/emmet-language-server
 
+# Ripgrep
 brew install ripgrep
 # or
 curl -LO https://github.com/BurntSushi/ripgrep/releases/download/13.0.0/ripgrep_13.0.0_amd64.deb
 sudo dpkg -i ripgrep_13.0.0_amd64.deb
+
+# Packer
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
